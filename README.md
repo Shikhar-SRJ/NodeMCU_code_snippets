@@ -1,1 +1,1 @@
-# NodeMCU_sample_codes
+# NodeMCU_code_snippets
